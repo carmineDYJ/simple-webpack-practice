@@ -6,7 +6,7 @@ console.log("ha");
 const div = document.getElementById("app");
 
 div.innerHTML = `
-  <img src="${png}" alt="Pikachu" title="Pikachu">
+  <img src="${png}" alt="皮卡丘" title="皮卡丘">
 `;
 
 const button = document.createElement("button");
